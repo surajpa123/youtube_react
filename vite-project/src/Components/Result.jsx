@@ -15,8 +15,6 @@ console.log(store)
     <div class= "container">
 <iframe style={{width:"70%",height:"500px"}} src={storeData} ></iframe>
 <h2>{title}</h2>
-
-
     <p>{store}</p>
     </div>
   )
